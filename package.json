@@ -6,7 +6,7 @@
   },
   "version": "0.0.1",
   "private": false,
-  "main":"index.js",
+  "main":"./index.js",
   "url":"http://github.com/ssetem/simple-ioc-extra",
   "repository" :{
     "type" : "git",

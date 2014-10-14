@@ -1,2 +1,2 @@
 require("coffee-script/register")
-require("./simple-ioc-extra")
+module.exports = require("./simple-ioc-extra");
