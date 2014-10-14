@@ -1,0 +1,16 @@
+{
+  "name": "simple-ioc-extra",
+  "author": {
+    "name": "Siavash Etemadieh",
+    "email": "ashe@opentable.com"
+  },
+  "version": "0.0.1",
+  "private": false,
+  "main":"index.js",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "underscore": "^1.6.0",
+    "simple-ioc": "git://github.com/ssetem/simple-ioc",
+    "require-all": "0.0.8"
+  }
+}
